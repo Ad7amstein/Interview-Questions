@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to collaborate or connect with me
 ---
 
-My name is Adham Allam. I have the following qualities:  
+My name is **Adham Allam**. I have the following qualities:  
 
 - I’m passionate about Artificial Intelligence and Data Science  
 - I enjoy solving problems, from competitive programming to real-world AI projects  
